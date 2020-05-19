@@ -10,7 +10,7 @@ public class Main {
 		
 		Político.País País = new Político.País("España", "Madrid", "Euro", 544232, 321);
 		System.out.println(País.PasardatosToString());
-		System.out.println("Actualización");
+		System.out.println("Actualización2");
 	}
 
 }
